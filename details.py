@@ -1,0 +1,5 @@
+name = ''
+client_id = ''
+secret = ''
+username = ''
+password = ''
