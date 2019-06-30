@@ -3,10 +3,10 @@ import details
 
 ###  LOGGING INTO REDDIT  ###
 reddit_instance = praw.Reddit(user_agent=        'raymond_ouyang_1',
-                     client_id=         details.client_id,
-                     client_secret=     details.secret,
-                     password=          details.password,
-                     username=          details.username)
+                              client_id=         details.client_id,
+                              client_secret=     details.secret,
+                              password=          details.password,
+                              username=          details.username)
 
 
 ### OPENING/CREATING COMMENTED FILE AND RETRIEVING ID'S ###
