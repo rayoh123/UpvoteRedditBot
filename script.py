@@ -2,7 +2,7 @@ import praw
 import details
 
 ###  LOGGING INTO REDDIT  ###
-reddit_instance = praw.Reddit(user_agent=        'raymond_ouyang_1',
+reddit_instance = praw.Reddit(user_agent=        'add_your_user_agent_here',
                               client_id=         details.client_id,
                               client_secret=     details.secret,
                               password=          details.password,
